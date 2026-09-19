@@ -1,0 +1,11 @@
+{
+  "name": "kenji-multiplayer-pet",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
